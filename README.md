@@ -1,3 +1,3 @@
 # musical-spoon
-for num in range(0, 2)
-    print num
+This rep is all about some interesting codes that makes tasks easy.
+
